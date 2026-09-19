@@ -18,7 +18,7 @@ export function welcomeScreen({ player, onStart }) {
   const node = el(`<div class="screen welcome">
     <header class="wl-bar">
       <span class="wordmark">IELTS<span>mock</span></span>
-      <span class="wl-cheer">Gooo luck)</span>
+      <span class="wl-cheer">Good luck Muslima</span>
     </header>
     <main class="wl-main">
       <section class="wl-lead">
